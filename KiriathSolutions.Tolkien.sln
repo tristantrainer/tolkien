@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{136DE288-5D81-485F-9E20-856EDDABEC66}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KiriathSolutions.Tolkien.Api", "src\KiriathSolutions.Tolkien.Api\KiriathSolutions.Tolkien.Api.csproj", "{483AFB68-7222-4558-AC31-7FF635641D02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KiriathSolutions.Tolkien.Core", "src\KiriathSolutions.Tolkien.Core\KiriathSolutions.Tolkien.Core.csproj", "{543C57CC-4ADF-49B4-B148-70825DA7F097}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{483AFB68-7222-4558-AC31-7FF635641D02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{483AFB68-7222-4558-AC31-7FF635641D02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{483AFB68-7222-4558-AC31-7FF635641D02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{483AFB68-7222-4558-AC31-7FF635641D02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{543C57CC-4ADF-49B4-B148-70825DA7F097}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{543C57CC-4ADF-49B4-B148-70825DA7F097}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{543C57CC-4ADF-49B4-B148-70825DA7F097}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{543C57CC-4ADF-49B4-B148-70825DA7F097}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{483AFB68-7222-4558-AC31-7FF635641D02} = {136DE288-5D81-485F-9E20-856EDDABEC66}
+		{543C57CC-4ADF-49B4-B148-70825DA7F097} = {136DE288-5D81-485F-9E20-856EDDABEC66}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+C:\Users\trist\Projects\KiriathSolutions\tolkien\bin\KiriathSolutions.Tolkien.Core\Debug\net7.0\KiriathSolutions.Tolkien.Core.deps.json
+C:\Users\trist\Projects\KiriathSolutions\tolkien\bin\KiriathSolutions.Tolkien.Core\Debug\net7.0\KiriathSolutions.Tolkien.Core.dll
+C:\Users\trist\Projects\KiriathSolutions\tolkien\bin\KiriathSolutions.Tolkien.Core\Debug\net7.0\KiriathSolutions.Tolkien.Core.pdb
+C:\Users\trist\Projects\KiriathSolutions\tolkien\obj\KiriathSolutions.Tolkien.Core\Debug\net7.0\KiriathSolutions.Tolkien.Core.csproj.AssemblyReference.cache
+C:\Users\trist\Projects\KiriathSolutions\tolkien\obj\KiriathSolutions.Tolkien.Core\Debug\net7.0\KiriathSolutions.Tolkien.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trist\Projects\KiriathSolutions\tolkien\obj\KiriathSolutions.Tolkien.Core\Debug\net7.0\KiriathSolutions.Tolkien.Core.AssemblyInfoInputs.cache
+C:\Users\trist\Projects\KiriathSolutions\tolkien\obj\KiriathSolutions.Tolkien.Core\Debug\net7.0\KiriathSolutions.Tolkien.Core.AssemblyInfo.cs
+C:\Users\trist\Projects\KiriathSolutions\tolkien\obj\KiriathSolutions.Tolkien.Core\Debug\net7.0\KiriathSolutions.Tolkien.Core.csproj.CoreCompileInputs.cache
+C:\Users\trist\Projects\KiriathSolutions\tolkien\obj\KiriathSolutions.Tolkien.Core\Debug\net7.0\KiriathSolutions.Tolkien.Core.dll
+C:\Users\trist\Projects\KiriathSolutions\tolkien\obj\KiriathSolutions.Tolkien.Core\Debug\net7.0\refint\KiriathSolutions.Tolkien.Core.dll
+C:\Users\trist\Projects\KiriathSolutions\tolkien\obj\KiriathSolutions.Tolkien.Core\Debug\net7.0\KiriathSolutions.Tolkien.Core.pdb
+C:\Users\trist\Projects\KiriathSolutions\tolkien\obj\KiriathSolutions.Tolkien.Core\Debug\net7.0\ref\KiriathSolutions.Tolkien.Core.dll

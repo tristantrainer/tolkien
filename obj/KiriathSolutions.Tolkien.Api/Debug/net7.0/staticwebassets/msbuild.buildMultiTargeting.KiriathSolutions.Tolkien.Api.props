@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\KiriathSolutions.Tolkien.Api.props" />
+</Project>
